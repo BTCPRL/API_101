@@ -1,0 +1,11 @@
+﻿  plugin_main.cpp
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(21): error C2653: 'basicNode2_AC': is not a class or namespace name
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(21): error C2065: 'id': undeclared identifier
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(22): error C2653: 'basicNode2_AC': is not a class or namespace name
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(22): error C2065: 'creator': undeclared identifier
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(23): error C2653: 'basicNode2_AC': is not a class or namespace name
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(23): error C2065: 'initialize': undeclared identifier
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(24): error C2065: 'kSuccess': undeclared identifier
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(25): error C2027: use of undefined type 'Autodesk::Maya::OpenMaya20180000::MGlobal'
+  c:\program files\autodesk\maya2018\include\maya\mapinamespace.h(332): note: see declaration of 'Autodesk::Maya::OpenMaya20180000::MGlobal'
+d:\dev\riggingdojo\api_101\week1\week1_assigment\basicnode2_ac\plugin_main.cpp(25): error C3861: 'displayError': identifier not found

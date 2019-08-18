@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pushDeformer_AC", "pushDeformer_AC\pushDeformer_AC.vcxproj", "{4EC7B9AE-0B2C-4EB7-B96B-7F08E68338AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "relaxNode_AC", "relaxNode_AC\relaxNode_AC.vcxproj", "{56732B3F-0093-41E1-B6DE-A0FF3AD85F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC7B9AE-0B2C-4EB7-B96B-7F08E68338AA}.Debug|x64.ActiveCfg = Debug|x64
+		{4EC7B9AE-0B2C-4EB7-B96B-7F08E68338AA}.Debug|x64.Build.0 = Debug|x64
+		{4EC7B9AE-0B2C-4EB7-B96B-7F08E68338AA}.Release|x64.ActiveCfg = Release|x64
+		{4EC7B9AE-0B2C-4EB7-B96B-7F08E68338AA}.Release|x64.Build.0 = Release|x64
+		{56732B3F-0093-41E1-B6DE-A0FF3AD85F27}.Debug|x64.ActiveCfg = Debug|x64
+		{56732B3F-0093-41E1-B6DE-A0FF3AD85F27}.Debug|x64.Build.0 = Debug|x64
+		{56732B3F-0093-41E1-B6DE-A0FF3AD85F27}.Release|x64.ActiveCfg = Release|x64
+		{56732B3F-0093-41E1-B6DE-A0FF3AD85F27}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
